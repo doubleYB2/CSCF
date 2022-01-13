@@ -1,0 +1,39 @@
+1_DCF_CA, 1_david3: 1/1
+error
+1_DCF_CA, 2_sylvester: 1/1
+if system_dependent('IsDebugMode')==1, dbquit; end
+main_running
+1_BACF, 1_m0101: 1/1
+error
+1_BACF, 2_m0201: 1/1
+error
+1_BACF, 3_m0202: 1/1
+error
+1_BACF, 4_m0203: 1/1
+error
+1_BACF, 5_m0204: 1/1
+error
+1_BACF, 6_m0205: 1/1
+error
+1_BACF, 7_m0206: 1/1
+error
+1_BACF, 8_m0207: 1/1
+error
+1_BACF, 9_m0208: 1/1
+error
+1_BACF, 10_m0209: 1/1
+error
+1_BACF, 11_m0210: 1/1
+error
+1_BACF, 12_m0301: 1/1
+error
+1_BACF, 13_m0401: 1/1
+error
+1_BACF, 14_m0402: 1/1
+error
+1_BACF, 15_m0501: 1/1
+error
+1_BACF, 16_m0602: 1/1
+error
+if system_dependent('IsDebugMode')==1, dbquit; end
+main_running

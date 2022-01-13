@@ -1,0 +1,34 @@
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dlmread', 'E:\MATLAB\MATLAB\toolbox\matlab\iofun\dlmread.m', 62)" style="font-weight:bold">dlmread</a> (<a href="matlab: opentoline('E:\MATLAB\MATLAB\toolbox\matlab\iofun\dlmread.m',62,0)">line 62</a>)
+无法打开文件 './anno/carDark.txt'，因为: No such file or directory
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'E:\MATLAB\MATLAB\OTBbenchmark\main_running.m', 61)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('E:\MATLAB\MATLAB\OTBbenchmark\main_running.m',61,0)">line 61</a>)
+    rect_anno = dlmread([pathAnno s.name '.txt']);
+} 
+main_running
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dlmread', 'E:\MATLAB\MATLAB\toolbox\matlab\iofun\dlmread.m', 62)" style="font-weight:bold">dlmread</a> (<a href="matlab: opentoline('E:\MATLAB\MATLAB\toolbox\matlab\iofun\dlmread.m',62,0)">line 62</a>)
+无法打开文件 './anno/david3.txt'，因为: No such file or directory
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'E:\MATLAB\MATLAB\OTBbenchmark\main_running.m', 61)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('E:\MATLAB\MATLAB\OTBbenchmark\main_running.m',61,0)">line 61</a>)
+    rect_anno = dlmread([pathAnno s.name '.txt']);
+} 
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dlmread', 'E:\MATLAB\MATLAB\toolbox\matlab\iofun\dlmread.m', 62)" style="font-weight:bold">dlmread</a> (<a href="matlab: opentoline('E:\MATLAB\MATLAB\toolbox\matlab\iofun\dlmread.m',62,0)">line 62</a>)
+无法打开文件 './anno/singer1.txt'，因为: No such file or directory
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'E:\MATLAB\MATLAB\OTBbenchmark\main_running.m', 61)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('E:\MATLAB\MATLAB\OTBbenchmark\main_running.m',61,0)">line 61</a>)
+    rect_anno = dlmread([pathAnno s.name '.txt']);
+} 
+main_running
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dlmread', 'F:\MATLAB\toolbox\matlab\iofun\dlmread.m', 62)" style="font-weight:bold">dlmread</a> (<a href="matlab: opentoline('F:\MATLAB\toolbox\matlab\iofun\dlmread.m',62,0)">line 62</a>)
+无法打开文件 './annootb100/david.txt'，因为: No such file or directory
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', 'E:\MATLAB\MATLAB\OTBbenchmark\main_running.m', 61)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('E:\MATLAB\MATLAB\OTBbenchmark\main_running.m',61,0)">line 61</a>)
+    rect_anno = dlmread([pathAnno s.name '.txt']);
+} 
+main_running
+
+trackersCSCF =
+
+  1×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> 数组
+
+    {1×1 struct}
+
